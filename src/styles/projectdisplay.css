@@ -1,0 +1,59 @@
+.project {
+    width: 100%;
+    height: calc(100vh - 100px);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+  
+  .project h1 {
+    margin-top: 120px;
+    color: #3e497a;
+    font-size: 35px;
+  }
+  .project img {
+    width: 700px;
+    border-radius: 10px;
+  }
+  
+  .project p {
+    font-size: 40px;
+    color: #3e497a;
+  }
+  
+  .project svg {
+    font-size: 60px;
+    color: #3e497a;
+  }
+  .repository{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    gap: 30px;
+  }
+  .rep{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    text-align: center;
+    gap: 20px;
+  }
+  
+  @media only screen and (max-width: 800px) {
+    .project img {
+      width: 350px;
+      height: 280px;
+    }
+  }
+  @media only screen and (max-width: 350px) {
+    .project h1 {
+      margin-top: 200px;
+    }
+    .project img {
+      width: 250px;
+      height: 200px;
+    }
+  }
