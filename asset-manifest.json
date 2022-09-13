@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/Vasilis-Kalyvas-Portfolio/static/css/main.054517b8.css",
-    "main.js": "/Vasilis-Kalyvas-Portfolio/static/js/main.d24851a8.js",
-    "static/js/787.cda612ba.chunk.js": "/Vasilis-Kalyvas-Portfolio/static/js/787.cda612ba.chunk.js",
-    "static/media/youtubeclone.png": "/Vasilis-Kalyvas-Portfolio/static/media/youtubeclone.4a51ec83081d765e065e.png",
-    "static/media/pizzadelivery.png": "/Vasilis-Kalyvas-Portfolio/static/media/pizzadelivery.5ad618c27c7fccba7dd0.png",
-    "static/media/UserManagementSystem.png": "/Vasilis-Kalyvas-Portfolio/static/media/UserManagementSystem.7ad9cc647d8f71181778.png",
-    "static/media/ProjectManagementSystem.png": "/Vasilis-Kalyvas-Portfolio/static/media/ProjectManagementSystem.8a249cfae2fbc8bd3094.png",
-    "static/media/filemanager.png": "/Vasilis-Kalyvas-Portfolio/static/media/filemanager.ed50665651f605ab18bd.png",
-    "static/media/me.jpg": "/Vasilis-Kalyvas-Portfolio/static/media/me.298162ec6ce4df9ca252.jpg",
-    "index.html": "/Vasilis-Kalyvas-Portfolio/index.html",
-    "main.054517b8.css.map": "/Vasilis-Kalyvas-Portfolio/static/css/main.054517b8.css.map",
-    "main.d24851a8.js.map": "/Vasilis-Kalyvas-Portfolio/static/js/main.d24851a8.js.map",
-    "787.cda612ba.chunk.js.map": "/Vasilis-Kalyvas-Portfolio/static/js/787.cda612ba.chunk.js.map"
+    "main.css": "/static/css/main.054517b8.css",
+    "main.js": "/static/js/main.12d19d8e.js",
+    "static/js/787.cda612ba.chunk.js": "/static/js/787.cda612ba.chunk.js",
+    "static/media/youtubeclone.png": "/static/media/youtubeclone.4a51ec83081d765e065e.png",
+    "static/media/pizzadelivery.png": "/static/media/pizzadelivery.5ad618c27c7fccba7dd0.png",
+    "static/media/UserManagementSystem.png": "/static/media/UserManagementSystem.7ad9cc647d8f71181778.png",
+    "static/media/ProjectManagementSystem.png": "/static/media/ProjectManagementSystem.8a249cfae2fbc8bd3094.png",
+    "static/media/filemanager.png": "/static/media/filemanager.ed50665651f605ab18bd.png",
+    "static/media/me.jpg": "/static/media/me.298162ec6ce4df9ca252.jpg",
+    "index.html": "/index.html",
+    "main.054517b8.css.map": "/static/css/main.054517b8.css.map",
+    "main.12d19d8e.js.map": "/static/js/main.12d19d8e.js.map",
+    "787.cda612ba.chunk.js.map": "/static/js/787.cda612ba.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.054517b8.css",
-    "static/js/main.d24851a8.js"
+    "static/js/main.12d19d8e.js"
   ]
 }
