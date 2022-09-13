@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Vasilis-Kalyvas-Portfolio/static/css/main.054517b8.css",
-    "main.js": "/Vasilis-Kalyvas-Portfolio/static/js/main.75deb200.js",
+    "main.js": "/Vasilis-Kalyvas-Portfolio/static/js/main.d24851a8.js",
     "static/js/787.cda612ba.chunk.js": "/Vasilis-Kalyvas-Portfolio/static/js/787.cda612ba.chunk.js",
     "static/media/youtubeclone.png": "/Vasilis-Kalyvas-Portfolio/static/media/youtubeclone.4a51ec83081d765e065e.png",
     "static/media/pizzadelivery.png": "/Vasilis-Kalyvas-Portfolio/static/media/pizzadelivery.5ad618c27c7fccba7dd0.png",
@@ -11,11 +11,11 @@
     "static/media/me.jpg": "/Vasilis-Kalyvas-Portfolio/static/media/me.298162ec6ce4df9ca252.jpg",
     "index.html": "/Vasilis-Kalyvas-Portfolio/index.html",
     "main.054517b8.css.map": "/Vasilis-Kalyvas-Portfolio/static/css/main.054517b8.css.map",
-    "main.75deb200.js.map": "/Vasilis-Kalyvas-Portfolio/static/js/main.75deb200.js.map",
+    "main.d24851a8.js.map": "/Vasilis-Kalyvas-Portfolio/static/js/main.d24851a8.js.map",
     "787.cda612ba.chunk.js.map": "/Vasilis-Kalyvas-Portfolio/static/js/787.cda612ba.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.054517b8.css",
-    "static/js/main.75deb200.js"
+    "static/js/main.d24851a8.js"
   ]
 }
